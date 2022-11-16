@@ -1,0 +1,3 @@
+#chr	start	stop	direction	target	coverage	structure	fragment
+chr12	61649941	61669221	+	circ_0	360	circ_0	0
+chr12	52951736	52972886	+	circ_0	360	circ_0	1

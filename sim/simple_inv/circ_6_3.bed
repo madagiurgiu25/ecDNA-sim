@@ -1,0 +1,7 @@
+#chr	start	stop	direction	target	coverage	structure	fragment
+chr2	31003706	31023906	-	circ_0	210	circ_0	0
+chr2	31023906	31043406	+	circ_0	210	circ_0	1
+chr2	31043406	31066406	-	circ_0	210	circ_0	2
+chr2	31066406	31085506	+	circ_0	210	circ_0	3
+chr2	31085506	31110206	+	circ_0	210	circ_0	4
+chr2	31110206	31130806	+	circ_0	210	circ_0	5
