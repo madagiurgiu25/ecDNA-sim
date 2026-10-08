@@ -65,7 +65,7 @@ chr2	10338739	10352420	-	circ_0	500	circ_0	9
 
 ### Citation
 
-If you use Decoil for your work please cite our paper:
+If you use *ecDNA-sim* for your work please cite our paper:
 
 Madalina Giurgiu, Nadine Wittstruck, Elias Rodriguez-Fos, Rocio Chamorro Gonzalez, Lotte Bruckner, Annabell Krienelke-Szymansky, Konstantin Helmsauer, Anne Hartebrodt, Philipp Euskirchen, Richard P. Koche, Kerstin Haase*, Knut Reinert*, Anton G. Henssen*.**Reconstructing extrachromosomal DNA structural heterogeneity from long-read sequencing data using Decoil**. _Genome Research 2024_, DOI: [https://doi.org/10.1101/gr.279123.124](https://doi.org/10.1101/gr.279123.124)
 
