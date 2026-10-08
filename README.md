@@ -91,5 +91,5 @@ The code is distributed under BSD-3-Clause license. See [LICENSE](LICENSE) for d
 ### Contact
 
 For any questions do no hesitate to contact us.<br/>
-Author: Madalina Giurgiu (madalina.giurgiu@charite.de)
+Author: Madalina Giurgiu-Kraljic (madalina.giurgiu.kraljic@embl.de)
 
